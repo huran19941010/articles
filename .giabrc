@@ -1,1 +1,10 @@
 
+{
+   “ type ”： “ basic ”，
+   “ username ”： “ simongfxu ”，
+   “ password ”： “ password here ”，
+   “ issues ”： {
+     “ repo ”： “ simongfxu.github.com ”，
+     “ owner ”： “ simongfxu ” 
+  } 
+}
